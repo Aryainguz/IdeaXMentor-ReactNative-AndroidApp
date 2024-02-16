@@ -74,4 +74,4 @@ Contributions are welcome! If you'd like to contribute to IdeaXMentor, please fo
 
 - This project utilizes the power of React Native, IdeaXApi, and GPT models to provide an innovative virtual mentorship experience.
 
-```
+- Happy Hacking!
